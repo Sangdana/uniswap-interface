@@ -13,7 +13,7 @@ const getV3Tick = (tick: number, liquidityNet: number): TickData => ({
 
 describe('#computeSurroundingTicks', () => {
   it('correctly compute active liquidity', () => {
-    const token0 = new Token(1, '0x2170ed0880ac9a755fd29b2688956bd959f933f8', 18)
+    const token0 = new Token(1, '0x1a9C8182C09F50C8318d769245beA52c32BE35BC', 18)
     const token1 = new Token(1, '0x1f9840a85d5af5bf1d1762f925bdaddc4201f984', 18)
     const feeAmount = FeeAmount.LOW
     const spacing = TICK_SPACINGS[feeAmount]
