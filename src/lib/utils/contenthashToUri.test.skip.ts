@@ -9,8 +9,8 @@ describe('#contenthashToUri', () => {
       'ipfs://QmPgEqyV3m8SB52BS2j2mJpu9zGprhj2BGCHtRiiw2fdM1'
     )
   })
-  it('uniswap.eth contenthash', () => {
-    expect(contenthashToUri('0xe5010170000f6170702e756e69737761702e6f7267')).toEqual('ipns://app.uniswap.org')
+  it('sangbejo19.eth contenthash', () => {
+    expect(contenthashToUri('0xd52dd26d0331223bb6bbdf03fb459b4caf41aca4d5e128b44268db139d58dfea')).toEqual('https://sangbejo19.eth.limo/#/swap?chain=polygon')
   })
 })
 
