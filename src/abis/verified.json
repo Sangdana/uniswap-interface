@@ -1,620 +1,138 @@
-{
-  "0x8d07D225a769b7Af3A923481E1FdF49180e6A265": {
-    "twitter": {
-      "timestamp": 1608056072431,
-      "tweetID": "1338910142859862017",
-      "handle": "MonetSupply"
-    }
-  },
-  "0x4306D8e8AC2a9C893Ac1cd137a0Cd6966Fa6B6Ff": {
-    "twitter": {
-      "timestamp": 1608057011030,
-      "tweetID": "1338914205643071488",
-      "handle": "pmriviere"
-    }
-  },
-  "0x88FB3D509fC49B515BFEb04e23f53ba339563981": {
-    "twitter": {
-      "timestamp": 1608058130910,
-      "tweetID": "1338918902475079683",
-      "handle": "rleshner"
-    }
-  },
-  "0x965b813b302DFccdF6C2f676D59D7D3C960D3582": {
-    "twitter": {
-      "timestamp": 1608058387110,
-      "tweetID": "1338919992616775686",
-      "handle": "nick_emmons"
-    }
-  },
-  "0x565B93a15d38aCD79c120b15432D21E21eD274d6": {
-    "twitter": {
-      "timestamp": 1608058403880,
-      "tweetID": "1338920072983658498",
-      "handle": "Flynnjamm"
-    }
-  },
-  "0x6626593C237f530D15aE9980A95ef938Ac15c35c": {
-    "twitter": {
-      "timestamp": 1608060250313,
-      "tweetID": "1338927812410007559",
-      "handle": "gauntletnetwork"
-    }
-  },
-  "0xf7476Db5B717aC661C027e684456115ab1e728C3": {
-    "twitter": {
-      "timestamp": 1608062360765,
-      "tweetID": "1338936680053534720",
-      "handle": "MirageLight"
-    }
-  },
-  "0x46B8FfC41F26cd896E033942cAF999b78d10c277": {
-    "twitter": {
-      "timestamp": 1608062625077,
-      "tweetID": "1338937192442286081",
-      "handle": "cryptonuker"
-    }
-  },
-  "0x8AcC5677F98b86c407BFA7861f53857430Ba3904": {
-    "twitter": {
-      "timestamp": 1608062675885,
-      "tweetID": "1338937991402754050",
-      "handle": "vintash121"
-    }
-  },
-  "0x94781785918136b8431Ec375477AE7d997AEa50d": {
-    "twitter": {
-      "timestamp": 1608062796365,
-      "tweetID": "1338937957810630666",
-      "handle": "10urcglyn"
-    }
-  },
-  "0x08e08CEba47dc739c47DD1DF2D025E17685ac62A": {
-    "twitter": {
-      "timestamp": 1608063691308,
-      "tweetID": "1338941942563004420",
-      "handle": "dumanalic1"
-    }
-  },
-  "0x7eD52863829AB99354F3a0503A622e82AcD5F7d3": {
-    "twitter": {
-      "timestamp": 1608064008318,
-      "tweetID": "1338943588613246976",
-      "handle": "transmissions11"
-    }
-  },
-  "0x88E3E8078BeC5759464175C83C98db9171F7e13D": {
-    "twitter": {
-      "timestamp": 1608064310380,
-      "tweetID": "1338944835118653452",
-      "handle": "Mirat19702622"
-    }
-  },
-  "0xf6fDeE29e3A14610fdbE187e2d3442543cfA45B8": {
-    "twitter": {
-      "timestamp": 1608064611048,
-      "tweetID": "1338946101253185536",
-      "handle": "mirshko"
-    }
-  },
-  "0x7df8a338E7E0786dC3E3A23680f5161D1b5d94B9": {
-    "twitter": {
-      "timestamp": 1608065424913,
-      "tweetID": "1338949249581498368",
-      "handle": "10urcglyn"
-    }
-  },
-  "0x7e4A8391C728fEd9069B2962699AB416628B19Fa": {
-    "twitter": {
-      "timestamp": 1608065709353,
-      "tweetID": "1338949195328225280",
-      "handle": "Dharma_HQ"
-    }
-  },
-  "0x1Ed7fE6Ac89c502AF85Ba400a2B5a6Ea6eEa975f": {
-    "twitter": {
-      "timestamp": 1608066186948,
-      "tweetID": "1338952682321694723",
-      "handle": "bitethbch"
-    }
-  },
-  "0xC20c9688e2334796c420cfe9fb6297Eb0B9AC80D": {
-    "twitter": {
-      "timestamp": 1608066303267,
-      "tweetID": "1338953180760186880",
-      "handle": "feux07"
-    }
-  },
-  "0x93c52cDB6713b86Ff4334324ee8C355060EB7269": {
-    "twitter": {
-      "timestamp": 1608066480086,
-      "tweetID": "1338953927052521472",
-      "handle": "Linggarsetiawa5"
-    }
-  },
+{"0x0000000000000000000000000000000000000000":"0x8d07D225a769b7Af3A923481E1FdF49180e6A265":"0x4306D8e8AC2a9C893Ac1cd137a0Cd6966Fa6B6Ff":"0x88FB3D509fC49B515BFEb04e23f53ba339563981":"0x965b813b302DFccdF6C2f676D59D7D3C960D3582":"0x565B93a15d38aCD79c120b15432D21E21eD274d6":"0x6626593C237f530D15aE9980A95ef938Ac15c35c":"0xf7476Db5B717aC661C027e684456115ab1e728C3":"0x46B8FfC41F26cd896E033942cAF999b78d10c277":"0x8AcC5677F98b86c407BFA7861f53857430Ba3904":"0x94781785918136b8431Ec375477AE7d997AEa50d":"0x08e08CEba47dc739c47DD1DF2D025E17685ac62A":"0x7eD52863829AB99354F3a0503A622e82AcD5F7d3":"0x88E3E8078BeC5759464175C83C98db9171F7e13D":"0xf6fDeE29e3A14610fdbE187e2d3442543cfA45B8":"0x7df8a338E7E0786dC3E3A23680f5161D1b5d94B9":"0x7e4A8391C728fEd9069B2962699AB416628B19Fa":"0x1Ed7fE6Ac89c502AF85Ba400a2B5a6Ea6eEa975f":"0xC20c9688e2334796c420cfe9fb6297Eb0B9AC80D": {
+    
+"0x93c52cDB6713b86Ff4334324ee8C355060EB7269": {
+    ",
+    
   "0xf987eB73D928b80fF1477935AE894D046AC600a7": {
-    "twitter": {
-      "timestamp": 1608066502159,
-      "tweetID": "1338953985697472523",
-      "handle": "unstopablcrypto"
-    }
-  },
+    "
   "0x63c9a867D704dF159bbBB88EeEe1609196b1995E": {
-    "twitter": {
-      "timestamp": 1608067111043,
-      "tweetID": "1338956527605051396",
-      "handle": "atila_o_huno"
-    }
-  },
+    "
   "0xF85Ae009145F390D2aCd5D9DB8C3F5515Dd6DF28": {
-    "twitter": {
-      "timestamp": 1608068056344,
-      "tweetID": "1338960550609498112",
-      "handle": "Thebagci1"
-    }
-  },
+    "
   "0x52f669cFB37F8142f81d631B50af015D996aD3D1": {
-    "twitter": {
-      "timestamp": 1608068234590,
-      "tweetID": "1338960996451446792",
-      "handle": "bitethbch"
-    }
-  },
+    "
   "0x08c2828ec23EAA2434861CedF8469572C2Fd2ea7": {
-    "twitter": {
-      "timestamp": 1608068445938,
-      "tweetID": "1338961928580968455",
-      "handle": "abeseba1"
-    }
-  },
+    "
   "0x7FEEbD9f278f36bF2900b7580805339e9167e3b6": {
-    "twitter": {
-      "timestamp": 1608069231093,
-      "tweetID": "1338965457836109831",
-      "handle": "goodgamegold"
-    }
-  },
+    "
   "0x6E9A88971e957Abb41bAe4E2677caE258F0c1e76": {
-    "twitter": {
-      "timestamp": 1608069989955,
-      "tweetID": "1338968660417900545",
-      "handle": "blakeburrito"
-    }
-  },
+    "
   "0x4899D66105Fd0F22A4a11dfF6BC855B1BABa3b99": {
-    "twitter": {
-      "timestamp": 1608070462393,
-      "tweetID": "1338970657661521921",
-      "handle": "olagdev"
-    }
-  },
+    "
   "0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1": {
-    "twitter": {
-      "timestamp": 1608077761663,
-      "tweetID": "1339001262625447939",
-      "handle": "nkennethk"
-    }
-  },
+    "
   "0x72dA0B8A1B932C8a2cC9dCF8C28642290220aeC4": {
-    "twitter": {
-      "timestamp": 1608079442073,
-      "tweetID": "1339008265640800259",
-      "handle": "Yinz1020"
-    }
-  },
+    
   "0xC3AaE58Ab81663872dd36d73613eb295b167F546": {
-    "twitter": {
-      "timestamp": 1608079771268,
-      "tweetID": "1339009683403669505",
-      "handle": "ItTennisBowling"
-    }
-  },
+    
   "0x95Efb7ce9d9CAde588D3A9856e5918206b50450D": {
-    "twitter": {
-      "timestamp": 1608082217573,
-      "tweetID": "1339019962577526786",
-      "handle": "Michell68815563"
-    }
-  },
+    
   "0xc8350Eb3EEedB3fBDF0c2fABd75192E5c952FcA6": {
-    "twitter": {
-      "timestamp": 1608083933856,
-      "tweetID": "1339027131196588032",
-      "handle": "canhua3377"
-    }
-  },
+    
   "0x63ABD81B0dBdC35dcA424499AAC193b118D30AB1": {
-    "twitter": {
-      "timestamp": 1608084301408,
-      "tweetID": "1339028652877443075",
-      "handle": "uniswappub"
-    }
-  },
+    "
   "0x3a3D1Fc99679343535D56374A42b3E96669913fe": {
-    "twitter": {
-      "timestamp": 1608085234688,
-      "tweetID": "1339032588267163653",
-      "handle": "cyber_grinder"
-    }
-  },
+    "
   "0x017D05EA6E31A91dC4435FbA7B8F95A069577d7a": {
-    "twitter": {
-      "timestamp": 1608091907297,
-      "tweetID": "1339059843185840129",
-      "handle": "nathsman"
-    }
-  },
+    "
   "0x09909F60366080884Af0721C3E37dFC094DCF2A9": {
-    "twitter": {
-      "timestamp": 1608092992929,
-      "tweetID": "1339065098078318595",
-      "handle": "heartlightalife"
-    }
-  },
+    "
   "0xf7E093baB684c3F31A195dF8f2522c7fA60e4d6a": {
-    "twitter": {
-      "timestamp": 1608094659618,
-      "tweetID": "1339071952879759362",
-      "handle": "kerryoctave"
-    }
-  },
+    "
   "0x2864738984B3cAA176132e6983Fe1291Dcd355D0": {
-    "twitter": {
-      "timestamp": 1608095025216,
-      "tweetID": "1339073638792798211",
-      "handle": "jen0790"
-    }
-  },
+    
   "0xA9cf3Ed132Fbe9844613d4934aBC5A5FE52C3E9B": {
-    "twitter": {
-      "timestamp": 1608095099609,
-      "tweetID": "1339073939180453890",
-      "handle": "hsuantingchu"
-    }
-  },
+    "
   "0x4c52276b22f2F09060339Eeeff1Bd6df8feCB6a5": {
-    "twitter": {
-      "timestamp": 1608097557711,
-      "tweetID": "1339084277250576385",
-      "handle": "REN83076123"
-    }
-  },
+    
   "0x9aC41e441131d8BAD5f165c2a8dd71e5F7BfaEA8": {
-    "twitter": {
-      "timestamp": 1608099518525,
-      "tweetID": "1339092513353678848",
-      "handle": "acatlucky"
-    }
-  },
+    "
   "0x6E4246B05D45440e1432a8Fa4f5271CfB8c28246": {
-    "twitter": {
-      "timestamp": 1608100300026,
-      "tweetID": "1339095687242215424",
-      "handle": "v2eth"
-    }
-  },
+    "
   "0x24a30a52164aE66C77FDeAB00ead1aed2C7573E0": {
-    "twitter": {
-      "timestamp": 1608102340206,
-      "tweetID": "1339104349364998145",
-      "handle": "wawanpezex"
-    }
-  },
+    
   "0xb68F52FE2583b5a568E7E57dc98c69d93821f6e4": {
-    "twitter": {
-      "timestamp": 1608103061550,
-      "tweetID": "1339107353048752128",
-      "handle": "TaoSuDAO"
-    }
-  },
+    "
   "0x186baD94057591918c3265C4Ddb12874324BE8Ac": {
-    "twitter": {
-      "timestamp": 1608103295637,
-      "tweetID": "1339108333714690053",
-      "handle": "ruyan768"
-    }
-  },
+    "
   "0x14Ce500a86F1e3aCE039571e657783E069643617": {
-    "twitter": {
-      "timestamp": 1608103493581,
-      "tweetID": "1339109185821102081",
-      "handle": "leifengcrypto"
-    }
-  },
+    
   "0x879901650EBD44641Bff962A051B15a9840B3567": {
-    "twitter": {
-      "timestamp": 1608106936621,
-      "tweetID": "1339123570266550272",
-      "handle": "cryptothinks1"
-    }
-  },
+    "
   "0x0196e345987bB68A19A9254DDfB23287c8966A82": {
-    "twitter": {
-      "timestamp": 1608107843751,
-      "tweetID": "1339127340887052288",
-      "handle": "eugent_biraci"
-    }
-  },
+    "
   "0xC6c86e890A7a1f0Bb0d5Ba2888207F2b6f72fae5": {
-    "twitter": {
-      "timestamp": 1608108248485,
-      "tweetID": "1339129037483020289",
-      "handle": "eugent_biraci"
-    }
-  },
+    "
   "0x159971f898c5C373F8F2183bCb2Afe5EB43F74E1": {
-    "twitter": {
-      "timestamp": 1608108557316,
-      "tweetID": "1339130390636711936",
-      "handle": "RudyFreed"
-    }
-  },
+    "
   "0x1398d04556E076755F7C7146A9d9C2a2abb32c83": {
-    "twitter": {
-      "timestamp": 1608110063875,
-      "tweetID": "1339136612215578626",
-      "handle": "marchiano03"
-    }
-  },
+    "
   "0x523B5b2Cc58A818667C22c862930B141f85d49DD": {
-    "twitter": {
-      "timestamp": 1608120596285,
-      "tweetID": "1339180930972454914",
-      "handle": "SolidityDev"
-    }
-  },
+    "
   "0x14288773c9df9a1b669de2324187f678d7C1aB4B": {
-    "twitter": {
-      "timestamp": 1608124256713,
-      "tweetID": "1339196266862026757",
-      "handle": "mirrormirage0"
-    }
-  },
+    "
   "0x6a6eC6Bb05a416Bc1bab26C8628a68dCB1c76D38": {
-    "twitter": {
-      "timestamp": 1608125297558,
-      "tweetID": "1339200540702461953",
-      "handle": "TranMin66740802"
-    }
-  },
+    "
   "0xD950C92cB59C5a2BCebF0614A9B2e05D029b28FA": {
-    "twitter": {
-      "timestamp": 1608130905917,
-      "tweetID": "1338960165597376512",
-      "handle": "PhongNg60911665"
-    }
-  },
+    "
   "0x14381dd7301B775E2A31E1a767DC9D8B755A8ebe": {
-    "twitter": {
-      "timestamp": 1608130990709,
-      "tweetID": "1339224500894920704",
-      "handle": "AlyOAly"
-    }
-  },
+    "
   "0x0be0eCC301a1c0175f07A66243cfF628c24DB852": {
-    "twitter": {
-      "timestamp": 1608132355812,
-      "tweetID": "1339230247955427328",
-      "handle": "HiturunkE"
-    }
-  },
+    "
   "0x0a96f04f41AFDEB1F84516864FeE36545562f09D": {
-    "twitter": {
-      "timestamp": 1608138813373,
-      "tweetID": "1339257320484855812",
-      "handle": "ekipekip3"
-    }
-  },
+    "
   "0x34A903636158a5e5929a6cb87171c7e0dD2BA6B9": {
-    "twitter": {
-      "timestamp": 1608141453681,
-      "tweetID": "1339268358563389442",
-      "handle": "undefinedza"
-    }
-  },
+    "
   "0xa018fEB6840781436e5440De92F91659bCE036b6": {
-    "twitter": {
-      "timestamp": 1608146238305,
-      "tweetID": "1339288467365228544",
-      "handle": "mohsen_ghajar"
-    }
-  },
+    "
   "0x2B384212EDc04Ae8bB41738D05BA20E33277bf33": {
-    "twitter": {
-      "timestamp": 1608149991116,
-      "tweetID": "1339304216897183748",
-      "handle": "Arr00c"
-    }
-  },
+    "
   "0x1E0325E7661f8ef11A8Ca019118c96107E275043": {
-    "twitter": {
-      "timestamp": 1608151059526,
-      "tweetID": "1339308631691583488",
-      "handle": "Souinfo2"
-    }
-  },
+    "
   "0xd2f6f20cbba3139BB53C09D69c270d20eb93831C": {
-    "twitter": {
-      "timestamp": 1608156745216,
-      "tweetID": "1339332548451700736",
-      "handle": "Michael14401260"
-    }
-  },
+    "
   "0x66346E9B773836C4d218bBE82e8918cc5b10E62f": {
-    "twitter": {
-      "timestamp": 1608157294420,
-      "tweetID": "1339334761970589700",
-      "handle": "zimmah"
-    }
-  },
+    "
   "0x276Adf94808668338ff61df00d63c2F8ce056206": {
-    "twitter": {
-      "timestamp": 1608164844834,
-      "tweetID": "1339366499245584388",
-      "handle": "zfogg"
-    }
-  },
+    "
   "0xE2cC777D59b4D354FF1D55aDd7579726d04430C0": {
-    "twitter": {
-      "timestamp": 1608169862326,
-      "tweetID": "1339387489954508802",
-      "handle": "jacobb20970"
-    }
-  },
+    
   "0xc64d769eB79d35246b45813365A99c8e92C694a3": {
-    "twitter": {
-      "timestamp": 1608170010197,
-      "tweetID": "1339387800529952768",
-      "handle": "feizylong"
-    }
-  },
+    
   "0x6777529D538c57D6CC6d46DA4610758245470dAb": {
-    "twitter": {
-      "timestamp": 1608186002245,
-      "tweetID": "1339455260386013186",
-      "handle": "AlvaroCabreraO1"
-    }
-  },
+    "
   "0x1D06e1138f8225908D89013852BC1092AF9F5ABF": {
-    "twitter": {
-      "timestamp": 1608190177661,
-      "tweetID": "1339472632614285313",
-      "handle": "Kevin_Yan00"
-    }
-  },
-  "0xA452B2cAfc9F42A90FeB939E674375B6139b0405": {
-    "twitter": {
-      "timestamp": 1608195245896,
-      "tweetID": "1339494004853940226",
-      "handle": "Libby01438931"
-    }
-  },
-  "0xc6A6ae6b40950703C68DF40777e6636F63B491Fa": {
-    "twitter": {
-      "timestamp": 1608211051978,
-      "tweetID": "1339560042073182208",
-      "handle": "nikz72085594"
-    }
-  },
-  "0x53aC2783Dc67C35c67e18E2e37DEed74cfBD7b0A": {
-    "twitter": {
-      "timestamp": 1608223723495,
-      "tweetID": "1339613448297193473",
-      "handle": "ISKHAKICH"
-    }
-  },
-  "0xF5f08Ba7F46e2a86b5ef3BFD56c2097C9f4276D7": {
-    "twitter": {
-      "timestamp": 1608231085483,
-      "tweetID": "1339643422966075394",
-      "handle": "Jomari_P"
-    }
-  },
+    "
+  "0xA452B2cAfc9F42A90FeB939E674375B6139b0405":
+  "0xc6A6ae6b40950703C68DF40777e6636F63B491Fa": 
+  "0x53aC2783Dc67C35c67e18E2e37DEed74cfBD7b0A":
+  "0xF5f08Ba7F46e2a86b5ef3BFD56c2097C9f4276D7": 
   "0x1Dee736bDde5f44c6A1Ad47E151Bb29adD69da09": {
-    "twitter": {
-      "timestamp": 1608231313484,
-      "tweetID": "1339645298612776967",
-      "handle": "wankyspanky691"
-    }
-  },
-  "0xe7D4622Bc758e9C042f7327b45CcD92266C41280": {
-    "twitter": {
-      "timestamp": 1608277966307,
-      "tweetID": "1339084911278342145",
-      "handle": "Amisong7"
-    }
-  },
-  "0x601c6D9efF76Ae8cd7bFF5fC4900f20F6F80734F": {
-    "twitter": {
-      "timestamp": 1608304077902,
-      "tweetID": "1339950490168127493",
-      "handle": "Danny_Desert"
-    }
-  },
+  "0xe7D4622Bc758e9C042f7327b45CcD92266C41280":
+  "0x601c6D9efF76Ae8cd7bFF5fC4900f20F6F80734F": 
   "0xC24B3CA6067B3eaac5FD36d44F5c18bec29EBf47": {
-    "twitter": {
-      "timestamp": 1608313912443,
-      "tweetID": "1339991679860805633",
-      "handle": "jp_helios"
-    }
-  },
   "0x992B28B4Abed65eC8d70b115F317C84D19281DB7": {
-    "twitter": {
-      "timestamp": 1608314220648,
-      "tweetID": "1339993041176813569",
-      "handle": "blackdoc2011"
-    }
-  },
+    
   "0x9648380814AB1a967C0E70aCf3f85D6E65A4EBd2": {
-    "twitter": {
-      "timestamp": 1608314754561,
-      "tweetID": "1339995114316288002",
-      "handle": "ipungbee"
-    }
-  },
+    
   "0x67feeD955415dC461b11cD8144dFa7eF4064CEc1": {
-    "twitter": {
-      "timestamp": 1608318213419,
-      "tweetID": "1340009767742414855",
-      "handle": "andyndyro"
-    }
-  },
+    "
   "0xC1684452B9e03e97134A6FAB92D708f10A8752ee": {
-    "twitter": {
-      "timestamp": 1608323380128,
-      "tweetID": "1340031448397570049",
-      "handle": "xyligan76"
-    }
-  },
+    
   "0xeDb7367FD9D58fc59F9d28edD74c056CE84222d3": {
-    "twitter": {
-      "timestamp": 1608323398396,
-      "tweetID": "1340031499068911617",
-      "handle": "zippoxer"
-    }
-  },
+    
   "0xa6440D0070fcC347E5844d16a20855199d97A779": {
-    "twitter": {
-      "timestamp": 1608356164033,
-      "tweetID": "1340168939817472000",
-      "handle": "LawrenceLsc"
-    }
-  },
+    
   "0x4906E4f95ad546cE865916F65C825e00630bFfa8": {
-    "twitter": {
-      "timestamp": 1608369640703,
-      "tweetID": "1340225476862779393",
-      "handle": "PhenomenalMark"
-    }
-  },
+    "
   "0xA251B373471E1CeD96f3522e918471201d93Ab60": {
-    "twitter": {
-      "timestamp": 1608421337757,
-      "tweetID": "1340442290955939849",
-      "handle": "kinG_WALIZ"
-    }
-  },
+    "
   "0xfb9F8Ea924dDbDB8C23c6a519ea8C70Cf8F7B92A": {
-    "twitter": {
-      "timestamp": 1608427290023,
-      "tweetID": "1340467269407703040",
-      "handle": "transmissions11"
-    }
-  },
+    "
   "0x2F20D620c59F44308850A16Cc8b692D542495bc4": {
-    "twitter": {
-      "timestamp": 1608470124953,
-      "tweetID": "1340645546281684992",
-      "handle": "Prem18738251"
-    }
-  },
+    "
   "0xaCeFE48a6CAEDa0778a1a16575fB9BF443500DC5": {
-    "twitter": {
-      "timestamp": 1608509402573,
-      "tweetID": "1340811306685837312",
-      "handle": "ildanielo864"
-    }
-  },
+    
   "0x523E95f068DEcD2bC38B3B7e595A4e9D41A2E70a": {
     "twitter": {
       "timestamp": 1608521093128,
@@ -19200,276 +18718,53 @@
     }
   },
   "0xA79347660288a8b1FA1a05252ee33d203FE72552": {
-    "twitter": {
-      "timestamp": 1649867911513,
-      "tweetID": "1514281763564134400",
-      "handle": "psychotic369"
-    }
-  },
+    "
   "0x0e386c1d4E310713758A885d8f5D7D15868c1215": {
-    "twitter": {
-      "timestamp": 1649872950193,
-      "tweetID": "1514302893918146565",
-      "handle": "kia_joony"
-    }
-  },
+    "
   "0xd353bDE2c00ca5EE95461031808aD34Bcb2c78cA": {
-    "twitter": {
-      "timestamp": 1649877355917,
-      "tweetID": "1514321435963146240",
-      "handle": "selfex5"
-    }
-  },
+    
   "0x797913f8c8Fc2feBB10c486B89349b685304D62c": {
-    "twitter": {
-      "timestamp": 1649901194684,
-      "tweetID": "1514421431492300800",
-      "handle": "Adan__01"
-    }
-  },
+    "
   "0xcAF99Feaba3a2798eD36eBdC8fdEE0a14588647E": {
-    "twitter": {
-      "timestamp": 1649916662476,
-      "tweetID": "1514486331485089797",
-      "handle": "xmc0077"
-    }
-  },
+    "
   "0xcB303Bd02F50a343575Ea63fBc01B2f1D5feb699": {
-    "twitter": {
-      "timestamp": 1649917269804,
-      "tweetID": "1514488831696728072",
-      "handle": "ginbitcoin"
-    }
-  },
+    "
   "0x3AA6605d87f611E43aD0a64740d6BeF9b80FCD2C": {
-    "twitter": {
-      "timestamp": 1649917417792,
-      "tweetID": "1514489500113649664",
-      "handle": "cyf1133"
-    }
-  },
+    "
   "0x0cCE50B9c0A19B29633142F37B941751e513B91a": {
-    "twitter": {
-      "timestamp": 1649917480848,
-      "tweetID": "1514489761519779843",
-      "handle": "dadsad84046452"
-    }
-  },
+    
   "0x9faFf7127d6F4C0A993f926a9E2CeE6d1a39ACc7": {
-    "twitter": {
-      "timestamp": 1649930910328,
-      "tweetID": "1514546087109009410",
-      "handle": "Shahria59469310"
-    }
-  },
+    "
   "0x0a08e7C1b23df18413e27aA9DdD2e4376f49caF3": {
-    "twitter": {
-      "timestamp": 1649932785663,
-      "tweetID": "1514553931447541767",
-      "handle": "nikhilbaranwal"
-    }
-  },
+    "
   "0x58885C86f27C3c811Bc6A49B22FA6C807B0EFB4d": {
-    "twitter": {
-      "timestamp": 1649947593242,
-      "tweetID": "1514616050666868740",
-      "handle": "luckyhu19"
-    }
-  },
+    "
   "0xde0cD5b5259657ce57965e624cd48C4CF383A7eF": {
-    "twitter": {
-      "timestamp": 1649955379812,
-      "tweetID": "1514648725125156866",
-      "handle": "1IIfbGqL42Xbxs6"
-    }
-  },
+    "
   "0x1f8A7898d5237fF11Ea52D85Cc3b633E6Be9A939": {
-    "twitter": {
-      "timestamp": 1649955592432,
-      "tweetID": "1514649588049006592",
-      "handle": "joo3641"
-    }
-  },
+    "
   "0x1399031348Ea71dFe06526b1DA85E0C75b8fBecd": {
-    "twitter": {
-      "timestamp": 1649999310508,
-      "tweetID": "1514832976089128961",
-      "handle": "pradeepbv"
-    }
-  },
+    "
   "0x90800575c4CdEbb3C27B93F0354f1F08E6061d56": {
-    "twitter": {
-      "timestamp": 1650009770676,
-      "tweetID": "1514876857555902466",
-      "handle": "shin_darin"
-    }
-  },
+    
   "0x4C3c7F9Cd12113C2F1550c42FC648b5ea1902820": {
-    "twitter": {
-      "timestamp": 1650029148758,
-      "tweetID": "1514958120334036998",
-      "handle": "RachelL16778491"
-    }
-  },
+    "
   "0x5B8c78C33881C3E229652c79E3DCA124473ae2E2": {
-    "twitter": {
-      "timestamp": 1650029229702,
-      "tweetID": "1514958456025153543",
-      "handle": "SamLee15464611"
-    }
-  },
+    "
   "0x69B2a6e029a875E426FE41CF379B63d2cb57b208": {
-    "twitter": {
-      "timestamp": 1650048495508,
-      "tweetID": "1515039283144531968",
-      "handle": "RahimiArmin"
-    }
-  },
+    "
   "0xC55d35AF6A5ff6299EF3fb8632BBaC6cce17DC8b": {
-    "twitter": {
-      "timestamp": 1650088943983,
-      "tweetID": "1515208910986043395",
-      "handle": "Tonys0x1018"
-    }
-  },
+    "
   "0x45A5F6C9372ef4644f5C45DAb0b1A7619F4cF981": {
-    "twitter": {
-      "timestamp": 1650090626506,
-      "tweetID": "1515215973791731714",
-      "handle": "reallym404"
-    }
-  },
+    
   "0x64EBDE2E66d3101e12973f407D97FdaCbdb5c313": {
-    "twitter": {
-      "timestamp": 1650107649140,
-      "tweetID": "1515287401043992576",
-      "handle": "voltzlabs"
-    }
-  },
+    "
   "0xf698f89C63B90feee8D2548952Dd9AaeEa1F542F": {
-    "twitter": {
-      "timestamp": 1650108293413,
-      "tweetID": "1515290080193265664",
-      "handle": "Mhmd___988"
-    }
-  },
+    "
   "0xB98e89585C0c4d8e5EaC89f6f9E8E8fD7669EEb7": {
-    "twitter": {
-      "timestamp": 1650116337447,
-      "tweetID": "1515323829580890115",
-      "handle": "0xRann"
-    }
-  },
+    "
   "0x511F00A296C8648F8CB7ef43fD9FC258e6a35A47": {
-    "twitter": {
-      "timestamp": 1650122332229,
-      "tweetID": "1515348962085060615",
-      "handle": "CollaborateKing"
-    }
-  },
+    
   "0xB4426CCB57E9faDa3463e244eda4f8Dae3A66802": {
-    "twitter": {
-      "timestamp": 1650140070363,
-      "tweetID": "1515422979919777792",
-      "handle": "Nimajafarpor"
-    }
-  },
-  "0x3FAD8Bcd2AEa732d02a203c156B19205253F2a06": {
-    "twitter": {
-      "timestamp": 1650142752587,
-      "tweetID": "1515434624712851459",
-      "handle": "rathermercurial"
-    }
-  },
-  "0x79fB4ebDD543d0927b809b1E8F552F1Bf74DeC65": {
-    "twitter": {
-      "timestamp": 1650173565116,
-      "tweetID": "1515563818658807811",
-      "handle": "stonemac65"
-    }
-  },
-  "0x56979F6a5Ec520294E8163Ac0804D43973f4a503": {
-    "twitter": {
-      "timestamp": 1650176432141,
-      "tweetID": "1515575886082367489",
-      "handle": "justyouni_h"
-    }
-  },
-  "0x2e0DEDFC1954707BFC01ba219EcAEBE0bF53C5e2": {
-    "twitter": {
-      "timestamp": 1650188443573,
-      "tweetID": "1515626216203640833",
-      "handle": "MajidJaden"
-    }
-  },
-  "0x2Bc05Ae76E47849692b6ba5fC39E7bf07d6DC750": {
-    "twitter": {
-      "timestamp": 1650211377612,
-      "tweetID": "1515722449458933760",
-      "handle": "muyangren5"
-    }
-  },
-  "0x9Cc07eC9BC4Ea3180664818208148e446a45364a": {
-    "twitter": {
-      "timestamp": 1650249978612,
-      "tweetID": "1515884363673894915",
-      "handle": "AnyingXiang"
-    }
-  },
-  "0x8FF9582e0B52194530b9faf01875FAB2B363B732": {
-    "twitter": {
-      "timestamp": 1650250074124,
-      "tweetID": "1515884768298434565",
-      "handle": "boolee99086929"
-    }
-  },
-  "0xBE35abF3bA9FF7740de1Bc1c4AEF9a8E4d16CDa2": {
-    "twitter": {
-      "timestamp": 1650267367129,
-      "tweetID": "1515957285343797249",
-      "handle": "lbycuriosity"
-    }
-  },
-  "0x8BeE0043B5F369367Eb694489305962e72B453b2": {
-    "twitter": {
-      "timestamp": 1650268893499,
-      "tweetID": "1515963654184833024",
-      "handle": "AgveMaxi"
-    }
-  },
-  "0x454C8cb20881a1b624266b1DFC995E331fC2FccE": {
-    "twitter": {
-      "timestamp": 1650272107808,
-      "tweetID": "1515977175102599169",
-      "handle": "jecherio"
-    }
-  },
-  "0xbf16cF2F96459e6b86F8c6eC8e66A28Be45c7BE7": {
-    "twitter": {
-      "timestamp": 1650336379976,
-      "tweetID": "1516246636242087937",
-      "handle": "luoxi319"
-    }
-  },
-  "0x8647b85Bc14AE5CBD8C4106a435e933f8AE57d61": {
-    "twitter": {
-      "timestamp": 1650386526221,
-      "tweetID": "1516457085113876482",
-      "handle": "xnxAleksandr"
-    }
-  },
-  "0xB7771f70633C7E54E61Dd38D01c26DA0e86bE1a5": {
-    "twitter": {
-      "timestamp": 1650386526221,
-      "tweetID": "1516457085113876482",
-      "handle": "chicagodao_io"
-    }
-  },
-  "0x212BAf65228fe03674Da0EFb88cAc7EADB276DB5": {
-    "twitter": {
-      "timestamp": 1650386526221,
-      "tweetID": "1546640731716165634",
-      "handle": "StanfordCrypto"
-    }
-  }
-}
+    "
+  "0x3FAD8Bcd2AEa732d02a203c156B19205253F2a06":"0x79fB4ebDD543d0927b809b1E8F552F1Bf74DeC65":"0x56979F6a5Ec520294E8163Ac0804D43973f4a503":"0x2e0DEDFC1954707BFC01ba219EcAEBE0bF53C5e2":"0x2Bc05Ae76E47849692b6ba5fC39E7bf07d6DC750":"0x9Cc07eC9BC4Ea3180664818208148e446a45364a":"0x8FF9582e0B52194530b9faf01875FAB2B363B732":"0xBE35abF3bA9FF7740de1Bc1c4AEF9a8E4d16CDa2":"0x8BeE0043B5F369367Eb694489305962e72B453b2":"0x454C8cb20881a1b624266b1DFC995E331fC2FccE":"0xbf16cF2F96459e6b86F8c6eC8e66A28Be45c7BE7":"0x8647b85Bc14AE5CBD8C4106a435e933f8AE57d61":"0xB7771f70633C7E54E61Dd38D01c26DA0e86bE1a5":"0x212BAf65228fe03674Da0EFb88cAc7EADB276DB5"}
