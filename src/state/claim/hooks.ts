@@ -53,7 +53,7 @@ function fetchClaimFile(key: string): Promise<{ [address: string]: UserClaimData
   return (
     FETCH_CLAIM_FILE_PROMISES[key] ??
     (FETCH_CLAIM_FILE_PROMISES[key] = fetch(
-      `https://raw.githubusercontent.com/Uniswap/mrkl-drop-data-chunks/final/chunks/${key}.json`
+      `https://raw.githubusercontent.com/Uniswap/sybil-list/master/verified.json`
     )
       .then((res) => res.json())
       .catch((error) => {
@@ -107,7 +107,7 @@ export function useUserClaimData(account: string | null | undefined): UserClaimD
   const [claimInfo, setClaimInfo] = useState<{ [account: string]: UserClaimData | null }>({})
 
   useEffect(() => {
-    if (!account || chainId !== 1) return
+    if (!account || chainId !== 137) return
 
     fetchClaim(account)
       .then((accountClaimInfo) =>
@@ -128,7 +128,7 @@ export function useUserClaimData(account: string | null | undefined): UserClaimD
       })
   }, [account, chainId])
 
-  return account && chainId === 1 ? claimInfo[account] : null
+  return account && chainId === 137 ? claimInfo[account] : null
 }
 
 // check if user is in blob and has not yet claimed UNI
