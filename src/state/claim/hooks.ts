@@ -1,5 +1,5 @@
 import { TransactionResponse } from '@ethersproject/providers'
-import MerkleDistributorJson from '@uniswap/merkle-distributor/build/MerkleDistributor.json'
+import MerkleDistributorJson from '@uniswap/sybil-list/master/verified.json'
 import { CurrencyAmount, Token } from '@uniswap/sdk-core'
 import { MERKLE_DISTRIBUTOR_ADDRESS } from 'constants/addresses'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
@@ -107,7 +107,7 @@ export function useUserClaimData(account: string | null | undefined): UserClaimD
   const [claimInfo, setClaimInfo] = useState<{ [account: string]: UserClaimData | null }>({})
 
   useEffect(() => {
-    if (!account || chainId !== 137) return
+    if (!account || chainId !== 1) return
 
     fetchClaim(account)
       .then((accountClaimInfo) =>
@@ -128,7 +128,7 @@ export function useUserClaimData(account: string | null | undefined): UserClaimD
       })
   }, [account, chainId])
 
-  return account && chainId === 137 ? claimInfo[account] : null
+  return account && chainId === 1 ? claimInfo[account] : null
 }
 
 // check if user is in blob and has not yet claimed UNI
