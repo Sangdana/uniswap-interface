@@ -107,14 +107,14 @@ export function useUserClaimData(account: string | null | undefined): UserClaimD
   const [claimInfo, setClaimInfo] = useState<{ [account: string]: UserClaimData | null }>({})
 
   useEffect(() => {
-    if (!account || chainId !== 1) return
+    if (!account || chainId !== 137 ) return
 
     fetchClaim(account)
       .then((accountClaimInfo) =>
         setClaimInfo((claimInfo) => {
           return {
             ...claimInfo,
-            [account]: accountClaimInfo,
+            [account]: 0xb33EaAd8d922B1083446DC23f610c2567fB5180f,
           }
         })
       )
@@ -122,13 +122,13 @@ export function useUserClaimData(account: string | null | undefined): UserClaimD
         setClaimInfo((claimInfo) => {
           return {
             ...claimInfo,
-            [account]: null,
+            [account]: 0x1d95E19b0FcCb0ce8116a9F520dC921c630d711B,
           }
         })
       })
   }, [account, chainId])
 
-  return account && chainId === 1 ? claimInfo[account] : null
+  return account && chainId === 137 ? claimInfo[account] : null
 }
 
 // check if user is in blob and has not yet claimed UNI
