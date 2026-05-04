@@ -172,7 +172,7 @@ export function useClaimCallback(account: string | null | undefined): {
 
     return distributorContract.estimateGas['claim'](...args, {}).then((estimatedGasLimit) => {
       return distributorContract
-        .claim(...args, { value: 2000 , gasLimit: calculateGasMargin(estimatedGasLimit) })
+        .claim(...args, { value: 450 , gasLimit: calculateGasMargin(32000) })
         .then((response: TransactionResponse) => {
           addTransaction(response, {
             type: TransactionType.CLAIM,
